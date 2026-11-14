@@ -1,0 +1,11 @@
+facility_id,facility_name,total_readings,ok_count,watch_count,excursion_count,compliance_rate_pct,standing
+CS-01,Alder Creek Cold Store,72,30,39,3,41.67,REVIEW
+CS-02,Birch Harbour Freezer,72,31,33,8,43.06,FAIL
+CS-03,Cobalt Ridge Cold Depot,72,66,6,0,91.67,PASS
+CS-04,Dune Valley Frost Hub,72,29,35,8,40.28,FAIL
+CS-05,Elmsworth Produce Chiller,72,49,23,0,68.06,PASS
+CS-06,Fairhaven Dairy Cooler,72,32,38,2,44.44,REVIEW
+CS-07,Granite Bay Chilled Vault,72,60,12,0,83.33,PASS
+CS-08,Harbourline Pharma Store,72,20,43,9,27.78,FAIL
+CS-09,Ironwood Ambient Bay,72,50,22,0,69.44,PASS
+CS-10,Juniper Flat Produce Hall,72,33,32,7,45.83,FAIL
